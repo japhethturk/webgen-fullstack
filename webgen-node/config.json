@@ -1,0 +1,8 @@
+{
+  "port": 8088,
+  "app_url": "http://144.91.85.117:8088/",
+  "elasticsearch_url": "http://144.91.85.117:34349/",
+  "jwt": {
+    "secret": "&@$!webgen!$@&"
+  }
+}
